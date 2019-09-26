@@ -9,6 +9,7 @@
 ### Foundation:
 * [Week 1 - HTML, CSS and Basics](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-1)
     * [HTML by Riel](Foundation/Week-1/HTML.md)
+    * [Expressions and Control Flow by Gergo](Foundation/Week-1/Expressions-and-Control-Flow.MD)
 * [Week 2 - Data structures and Drawing](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-2)
 * [Week 3 - Files and Object Orientation](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-3)
 * [Week 4 - Inheritance](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-4)
