@@ -15,6 +15,7 @@
     - [`<ol>` - `<ul>`](#ol-and-ul-ordered-list-unordered-list)
     - [`<a>`](#a---)
 
+#
 
 ## `<head>` - head
 - Container for all the head elements.
@@ -103,7 +104,7 @@ Defines an arbitrary block of content which can be placed and styled as a single
 ```HTML
 <div>
   <h2>Favorite links</h2>
-  <a href="http:\\www.greenfoxacadem.com">GFA</a>
+  <a href="http:\\www.greenfoxacademy.com">GFA</a>
 </div>
 ```
 
@@ -146,7 +147,7 @@ Identifies a group of navigation links. Links in a <nav> element may point to ot
 ```HTML
 <nav>        
   <a href="http:\\www.whatever.hu">KD</a>
-  <a href="http:\\www.greenfoxacadem.com">GFA</a>
+  <a href="http:\\www.greenfoxacademy.com">GFA</a>
   <a href="http:\\www.index.hu">Index</a>
 </nav>
 ```
@@ -156,7 +157,7 @@ Identifies a group of navigation links. Links in a <nav> element may point to ot
 - ul --> defines an unordered (bulleted) list.
 
 
-Use the `[<li>]` tag to define list items for both of them
+Use the `<li>` tag to define list items for both of them
 
 ```HTML
 <ol>
