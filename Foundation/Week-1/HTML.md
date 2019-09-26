@@ -1,5 +1,5 @@
 
-#W01 - D02 - [HTML tags](https://html.com/tags/)
+# W01 - D02 - [HTML tags](https://html.com/tags/)
 
 ## `<head>` - head
 - Container for all the head elements.
@@ -9,7 +9,7 @@
 - _(The browser reads the file from the top, so if you put the link (to css for example) to the bottom, until you reach it, the linked css will not get applied)_
 
 
-####The following elements can go inside the <br/>`<head>`
+#### The following elements can go inside the <br/>`<head>`
 - `<title>` (this element is **required** in an HTML document)
 - `<style>`
 - `<base>`
@@ -26,15 +26,13 @@
 </head>
 ```
 
-Valami
-
-###`<body>` - BODY
+### `<body>` - BODY
 - Defines the document's body.
 - Contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 - Here comes everything that gets visible on the HTML page
 
 
-###`<main>` - MAIN CONTENT
+### `<main>` - MAIN CONTENT
 - Used to denote the content of a webpage that relates to the central topic of that page or application.
 
 
@@ -49,7 +47,7 @@ Valami
 ```
 
 
-###`<article>` - ARTICLE
+### `<article>` - ARTICLE
 - Identifies a self-contained piece of content which could theoretically be distributed to other websites and platforms as a stand-alone unit.
 - It is a good choice to contain entire blog posts, news articles, and similar content.
 
@@ -60,7 +58,7 @@ Valami
 </article>
 ```
 
-###`<h1 ...6 >` - HEADING
+### `<h1 ...6 >` - HEADING
 - A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading.
 - HTML defines six levels of headings --> H1, H2, H3, H4, H5, and H6
 - H1 --> importance --> H6
@@ -77,7 +75,7 @@ Valami
 <h2>Favorite notations</h2>
 ```
 
-###`<p>` - PARAGRAPH
+### `<p>` - PARAGRAPH
 Used to identify blocks of paragraph text.
 
 ```HTML
@@ -118,7 +116,7 @@ The hyperlink created by an anchor element is applied to the text, image, or oth
 ```
 
 ### `<img>` - IMAGE
-Used to insert an image into a document. All <img> tags must have a defined src attribute. 
+Used to insert an image into a document. All `<img>` tags must have a defined src attribute. 
 
 Available image formats are the most common ones: JPEG, [GIF] including animated GIFs, PNG, APNG, SVG, BMP <br/>
 Alt: alternative text (provided the image cannot be loaded)
