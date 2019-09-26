@@ -1,4 +1,6 @@
 # W01 - D02 - [HTML tags](https://html.com/tags/)
+***made by [Riel](https://github.com/Riel)***
+
 
 - [`<head>`](#head---head)
 - [`<body>`](#body---body)
