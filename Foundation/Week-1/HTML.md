@@ -109,7 +109,7 @@ Defines an arbitrary block of content which can be placed and styled as a single
 ```
 
 ### `<span>` - (INLINE) SECTION
-The inline equivalent to the block-level <div> element. It is used to select inline content for purely stylistic purposes.
+The inline equivalent to the block-level `<div>` element. It is used to select inline content for purely stylistic purposes.
 
 ```HTML
 <p>My mother has <span>blue</span> eyes.</p>
@@ -117,7 +117,7 @@ The inline equivalent to the block-level <div> element. It is used to select inl
 
 ### `<strong>` - EMPHASIZED TEXT
 Used to identify text that is of greater importance than the surrounding text. <br/>
-By default, all browsers render <strong> text in a bold typeface.
+By default, all browsers render `<strong>` text in a bold typeface.
 
 ```HTML
 <strong>Strong text</strong>
@@ -125,7 +125,7 @@ By default, all browsers render <strong> text in a bold typeface.
 
 ### `<a>` - HYPERLINK / ANCHOR
 Used to create a hyperlink to another webpage or another location within the same webpage. <br/>
-The hyperlink created by an anchor element is applied to the text, image, or other HTML content nested between the opening and closing <a> tags.
+The hyperlink created by an anchor element is applied to the text, image, or other HTML content nested between the opening and closing `<a>` tags.
 
 ```HTML
 <a href="http:\\www.greenfoxacademy.com">GFA</a>
@@ -142,7 +142,7 @@ Alt: alternative text (provided the image cannot be loaded)
 ```
 
 ### `<nav>` - NAVIGATION
-Identifies a group of navigation links. Links in a <nav> element may point to other webpages or to different sections of the same webpage.
+Identifies a group of navigation links. Links in a `<nav>` element may point to other webpages or to different sections of the same webpage.
 
 ```HTML
 <nav>        
