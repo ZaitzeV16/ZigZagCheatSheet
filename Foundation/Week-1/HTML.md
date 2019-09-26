@@ -1,5 +1,20 @@
-
 # W01 - D02 - [HTML tags](https://html.com/tags/)
+
+- [`<head>`](#head---head)
+- [`<body>`](#body---body)
+    - [`<main>`](#main---main-content)
+    - [`<article>`](#article---article)
+    - [`<h1...6>`](#h16---heading)
+    - [`<p>`](#p---paragraph)
+    - [`<div>`](#div---block-section)
+    - [`<span>`](#span---inline-section)
+    - [`<strong>`](#strong---emphasized-text)
+    - [`<a>`](#a---hyperlink--anchor)
+    - [`<img>`](#img---image)
+    - [`<nav>`](#nav---navigation)
+    - [`<ol>` - `<ul>`](#ol-and-ul-ordered-list-unordered-list)
+    - [`<a>`](#a---)
+
 
 ## `<head>` - head
 - Container for all the head elements.
@@ -26,7 +41,7 @@
 </head>
 ```
 
-### `<body>` - BODY
+## `<body>` - BODY
 - Defines the document's body.
 - Contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
 - Here comes everything that gets visible on the HTML page
@@ -58,7 +73,7 @@
 </article>
 ```
 
-### `<h1 ...6 >` - HEADING
+### `<h1...6>` - HEADING
 - A heading element implies all the font changes, paragraph breaks before and after, and any white space necessary to render the heading.
 - HTML defines six levels of headings --> H1, H2, H3, H4, H5, and H6
 - H1 --> importance --> H6
