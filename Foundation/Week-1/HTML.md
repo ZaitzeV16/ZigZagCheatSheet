@@ -13,7 +13,6 @@
     - [`<img>`](#img---image)
     - [`<nav>`](#nav---navigation)
     - [`<ol>` - `<ul>`](#ol-and-ul-ordered-list-unordered-list)
-    - [`<a>`](#a---)
 
 #
 
