@@ -25,9 +25,9 @@ graphics.drawRect(x, y, WIDTH, HEIGHT);
 
 ### Polygon
 ```java
- 	int[] xPoints;
- 	int[] yPoints;
- 	int nPoints; // number of angles
+int[] xPoints;
+int[] yPoints;
+int nPoints; // number of angles
 graphics.drawPolygon(xpoints, ypoints, npoints);
 ```
 

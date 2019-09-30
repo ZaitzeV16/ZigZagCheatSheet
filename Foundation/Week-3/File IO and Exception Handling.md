@@ -12,11 +12,11 @@
 > + several `catch` can belong to one `try`
 >   + they work like `if` – if the first `catch` comes true, the following ones won’t run
 
-> + `catch()` contains the error which can happen
->   + `Exception` -  covers all errors, but is not too informative
->   + `ArithmeticException` – calculation error (like divide with 0)
->   + `IOException` – errors related to file manipulation (like you wanna read a path which doesn’t exist)
->   + etc...
+`catch()` contains the error which can happen
++ `Exception` -  covers all errors, but is not too informative
++ `ArithmeticException` – calculation error (like divide with 0)
++ `IOException` – errors related to file manipulation (like you wanna read a path which doesn’t exist)
++ etc...
 
 > Checked exceptions
 > + they are checked before the program running, 
