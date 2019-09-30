@@ -14,6 +14,7 @@
 * [Week 2 - Data structures and Drawing](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-2)
     * D2 - [Arrays and Functions by ***Valen***](Foundation/Week-2/Arrays%20and%20Functions.md)
 * [Week 3 - Files and Object Orientation](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-3)
+    * D2 - [OOP](Foundation/Week-3/Java%20OOP%20Cheat%20Sheet.md)
 * [Week 4 - Inheritance](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-4)
 * [Week 5 - Wanderer - The Game](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-5)
     * [!!!Friday!!! - Foundation exam requirements](https://github.com/green-fox-academy/definitions/blob/master/exam/requirement/foundation-req.md)
