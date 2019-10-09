@@ -1,5 +1,5 @@
 # W01 - D03 - Git and Command Line
-***made by [barna](https://github.com/bekobarna)*** <br/> <br/>
+made by [<font color="SaddleBrown">***barna***</font> ***Barna***](https://github.com/bekobarna) <br/> <br/>
 
 |[Command Line](#command-line)                                                          |[Git](#git---version-control-system)|
 |:------------------------------------------------------------------------------------- |:---------------------------------- |
