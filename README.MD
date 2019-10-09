@@ -9,7 +9,7 @@
 ### Foundation:
 * [Week 1 - HTML, CSS and Basics](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-1)
     * D2 - [HTML by ***Riel***](Foundation/Week-1/HTML.md)
-    * D3 - [Git and Command Line by barna ***Barna***](Foundation/Week-1/Git%20and%20CommandLine.md)
+    * D3 - [Git and Command Line by ***Barna***](Foundation/Week-1/Git%20and%20CommandLine.md)
     * D4 - [Expressions and Control Flow by ***Gergo***](Foundation/Week-1/Expressions%20and%20Control%20Flow.MD)
 * [Week 2 - Data structures and Drawing](https://github.com/green-fox-academy/zigzag-syllabus/wiki/Week-2)
     * D2 - [Arrays and Functions by ***Valen***](Foundation/Week-2/Arrays%20and%20Functions.md)
